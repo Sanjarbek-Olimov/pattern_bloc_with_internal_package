@@ -1,5 +1,8 @@
 library pattern_bloc_http_service;
 
+export 'package:pattern_getx/service/log_service.dart';
+export 'package:pattern_getx/model/post_model.dart';
+
 import 'dart:convert';
 import 'package:http/http.dart';
 import 'package:pattern_getx/model/post_model.dart';
