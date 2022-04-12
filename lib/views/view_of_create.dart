@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:pattern_bloc/bloc/create_post_cubit.dart';
-import 'package:pattern_bloc_http_service/model/post_model.dart';
+import 'package:pattern_bloc_http_service/pattern_bloc_http_service.dart';
 
 
 Widget viewOfCreate(

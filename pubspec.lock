@@ -102,6 +102,13 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  get:
+    dependency: transitive
+    description:
+      name: get
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "4.6.1"
   http:
     dependency: transitive
     description:
@@ -172,6 +179,15 @@ packages:
       relative: false
     source: path
     version: "0.0.1"
+  pattern_getx:
+    dependency: transitive
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "62a1ca59d1a90b77bee38fbcaa9ff3ba22f4f238"
+      url: "https://github.com/Sanjarbek-Olimov/pattern_getx.git"
+    source: git
+    version: "1.0.0+1"
   provider:
     dependency: transitive
     description:

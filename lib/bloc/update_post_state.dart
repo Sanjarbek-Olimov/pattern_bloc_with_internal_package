@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:pattern_bloc_http_service/model/post_model.dart';
+import 'package:pattern_bloc_http_service/pattern_bloc_http_service.dart';
 
 abstract class UpdatePostState extends Equatable {
   @override

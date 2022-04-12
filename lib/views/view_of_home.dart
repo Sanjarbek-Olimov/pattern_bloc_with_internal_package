@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pattern_bloc_http_service/model/post_model.dart';
+import 'package:pattern_bloc_http_service/pattern_bloc_http_service.dart';
 
 import 'item_of_posts.dart';
 
